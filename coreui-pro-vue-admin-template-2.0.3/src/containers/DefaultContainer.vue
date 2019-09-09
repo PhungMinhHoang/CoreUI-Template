@@ -32,10 +32,10 @@
     </AppHeader>
     <div class="app-body">
       <AppSidebar fixed>
-        <SidebarHeader/>
-        <SidebarForm/>
+        <!-- <SidebarHeader/> -->
+        <!-- <SidebarForm/> -->
         <SidebarNav :navItems="nav"></SidebarNav>
-        <SidebarFooter/>
+        <!-- <SidebarFooter/> -->
         <SidebarMinimizer/>
       </AppSidebar>
       <main class="main">
